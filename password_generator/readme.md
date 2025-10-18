@@ -14,7 +14,7 @@ A web-based application for generating secure random passwords.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Praveen-Anirudhan/Build-and-Learn.git
 ```
 
 2. Open `index.html` in your web browser.
